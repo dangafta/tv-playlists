@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVR 1" tvg-name="TVR 1 HD" tvg-logo="https://iptvro.io/images/9220df1ccb24686ec7839a630f38e152.png" group-title="Generaliste" timeshift="3",TVR 1 HD
-http://procdn-ams.iptvro.link/play/link/1a378485-5954-4681-b543-c8f1b4508775/eyJpdiI6IndQK01SUm1wZW5PM2VadkJDVFFJbnc9PSIsInZhbHVlIjoiQ2YxMVFyV0JOQUg0TmVBMzdIVnVXM0FRNll1dnJXZVA3YW9QVEdOQ1lXeVdmeHN4T2lrT3Z6ZGQ4WEs4Uzc5RSIsIm1hYyI6IjM5M2ZkOTJiNTU1NTMyMzllMzg5OGVlMmUzNTFhMzAwMmU2MzMxMWZiZmIxOGNjZDE0M2M4ODRmMjBmODE4OWYiLCJ0YWciOiIifQ==.m3u?useIntId=0
-#EXTINF:-1 tvg-id="TVR 2" tvg-name="TVR 2 HD" tvg-logo="https://iptvro.io/images/98c1e5ceade55a9baa5fce852d5161fb.png" group-title="Generaliste" timeshift="3",TVR 2 HD
-http://procdn-ams.iptvro.link/play/link/95ea191a-de84-4c38-b53c-207d1aca94d3/eyJpdiI6IllDSS9nRnliSDRFNWdsUCsxbEFLQnc9PSIsInZhbHVlIjoib0tSQmpRWG43eVBBMktKSUZiemxoY2JPN1J5VG4vWFc0WkJQSVRoa0M3QnNNbmVUQk4xZXpiUEx1MWg2bUk0TCIsIm1hYyI6IjRlODA1YTIzZTQxOTI3ZDk3ZWFmYTliYzU0OTQyNjQ3MzU2OWMzMGExOWNkNmM4M2QwNGRhYzhmYjMyZjdhMWEiLCJ0YWciOiIifQ==.m3u?useIntId=0
-#EXTINF:-1 tvg-id="TVR 3" tvg-name="TVR 3" tvg-logo="https://iptvro.io/images/f71695392baedcbf56aa8dc448488cf7.png" group-title="Generaliste" timeshift="3",TVR 3
-http://procdn-ams.iptvro.link/play/link/119852d6-f024-468a-8986-d09c7e3bcbc7/eyJpdiI6Ii82YWthM0JwZFZ4T0tPUXB1YllQeVE9PSIsInZhbHVlIjoickxVZ2NCQUVFWDBucTFGUlVMZnJ6NkRSb1lsVlUxOXNPUWdJdDBEOXpJaTRrSGVjcENtUGpWOXFTT3NCcUFzQiIsIm1hYyI6IjMxMjc4YWQ2ODkyNDUzMDAwYzFkNWJmYjlmMmYzNmMyNWUwMzgxYTBhYTFiYjI3Yjk4MTBmOGNjZjg0MmQ4NmEiLCJ0YWciOiIifQ==.m3u?useIntId=0
-#EXTINF:-1 tvg-id="PRO TV HD" tvg-name="PRO TV HD (Original) ᶠᴴᴰ" tvg-logo="https://iptvro.io/images/f58fee4a5029feb39f2173fb4510532f.png" group-title="Generaliste",PRO TV HD (Original) ᶠᴴᴰ
-http://procdn-ams.iptvro.link/play/link/b6d5553a-71bf-4aa7-b3a8-77354904fff7/eyJpdiI6IjJzQTYxM1VuaG5EdS9vNmlJcElGcmc9PSIsInZhbHVlIjoiTHp6NmJDaVhnYmQ5Y1Z0dXZtUks1MXZERWNodnAzbXBNNUtJWUphd2VKRVRFT3F2YWttRHhOWGhNWlVoOWZ4bSIsIm1hYyI6IjIyNzhjZDkzZjY0ZjFlNTZkOTI1MzY2MWVlODMyMDA3YzY5Y2YzZTJmMWY3OTdmZjgwY2E4YzFjOWE2MTJmYzIiLCJ0YWciOiIifQ==.m3u?useIntId=0
-#EXTINF:-1 tvg-id="Antena 1 HD" tvg-name="Antena 1 HD (Original) ᶠᴴᴰ" tvg-logo="https://iptvro.io/images/bb4ae65bd2c5068c28062dc679d72a36.png" group-title="Generaliste",Antena 1 HD (Original) ᶠᴴᴰ
-http://procdn-ams.iptvro.link/play/link/fc08f3eb-a50a-4738-9cd9-cae6c45b32e1/eyJpdiI6IjQ3OU8zUjArOGtIcFNaVjJwc0lLeFE9PSIsInZhbHVlIjoiNGtWWlFLRW5QeFhPQmlZYVZsa2FsZ2g5dnovcWFhMktYdUoxbExkaFoyU0UybmxLL0V4a2hJeXZzdWsrWnJPZSIsIm1hYyI6Ijg1MDFmMmI2ZWI2OTMzNjg3ZmJhN2E1ZDYxMmM2YWE0NDYxNjAzN2M1ZTYzODBmNDIyYzc4MjU4ZGQwZDI5MDQiLCJ0YWciOiIifQ==.m3u?useIntId=0
+#EXTINF:-1,Test
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
